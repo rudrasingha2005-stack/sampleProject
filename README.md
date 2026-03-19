@@ -45,3 +45,5 @@ This is the message you wrote.Save the changes and write the message: updated in
 git branch -m old-name new-name=to change branch name if you are outside the  branch
 12.git remote add origin <repo link> = connect local project to GitHub repo
 13.git push -u origin main = you are uploading your project to GitHub and linking the branch for future pushes
+//change in working area-git add-git commit-git push
+14.git log=check git commit history
